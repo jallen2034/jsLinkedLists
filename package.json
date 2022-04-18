@@ -1,0 +1,22 @@
+{
+  "name": "jslinkedlists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jallen2034/jsLinkedLists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jallen2034/jsLinkedLists/issues"
+  },
+  "homepage": "https://github.com/jallen2034/jsLinkedLists#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
